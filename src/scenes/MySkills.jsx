@@ -7,7 +7,7 @@ const MySkills = () => {
 
   return (
     <section id="skills" className="pt-10 pb-24">
-      {/* Headr & Image Section */}
+      {/* Header & Image Section */}
       <div className="md:flex md:justify-between md:gap-16 mt-32">
         <motion.div
           className="md:w-1/3"
